@@ -1,0 +1,23 @@
+{
+  "name": "twitter-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntiVlad/Twitter-puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntiVlad/Twitter-puppeteer/issues"
+  },
+  "homepage": "https://github.com/AntiVlad/Twitter-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^18.0.3"
+  }
+}
